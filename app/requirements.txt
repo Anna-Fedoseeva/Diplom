@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+flet
+requests
+python-jose
+passlib[bcrypt]
